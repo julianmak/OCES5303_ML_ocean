@@ -41,6 +41,11 @@ There are already quite a lot of Google and YouTube resources to be honest. Ones
 * [Deep Learning with Python](https://deeplearningwithpython.io/)
 * [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 
+Some useful packages:
+
+* [skorch](https://github.com/skorch-dev/skorch), interfaced Sklearn-PyTorch pipeline (with thanks from Jonas Sterud for pointing this out)
+* [NeuralOperator](https://github.com/neuraloperator), variety of Neural Operators built on PyTorch
+
 ### known things to add/check:
 
 * yaml and environment files
