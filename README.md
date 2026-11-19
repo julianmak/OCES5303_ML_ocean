@@ -16,7 +16,7 @@ Clicking the icon below will open a temporary Colab instance, where changes are 
 
 ### Topics included here
 
-Will not be touching on LLMs here. Core topics are:
+Core topics are:
 
 1. Python recap, data handling/scaling, regression as optimisation
 2. Linear models, clustering, cross-validation
@@ -29,7 +29,7 @@ Will not be touching on LLMs here. Core topics are:
 9. PINNs
 10. FNOs
 
-Extra topics to include AI + Ethics, online learning, diffusion models, TDA, SINDy, FNOs, Neural ODEs, Graph NNs, others that I feel like at some point.
+Extra topics to include AI + Ethics, online learning, diffusion models, TDA, SINDy, transformers, Neural ODEs, Graph NNs, others that I feel like at some point.
 
 ### Other resources of use
 
